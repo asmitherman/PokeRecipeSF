@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 
-
 set -o errexit    # always exit on error
 set -o pipefail   # don't ignore exit codes when piping output
 set -o nounset    # fail on unset variables
