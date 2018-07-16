@@ -1,0 +1,205 @@
+[
+    [
+        "/Users/jeremyedwards/Documents/PokeCenter/mywork/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jeremyedwards/Documents/PokeCenter/mywork/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1531752386000,
+            "changeTime": 1531752386000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/jeremyedwards/Documents/PokeCenter/mywork/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jeremyedwards/Documents/PokeCenter/mywork/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1531752386000,
+            "changeTime": 1531752386000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jeremyedwards/Documents/PokeCenter/mywork/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jeremyedwards/Documents/PokeCenter/mywork/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1531761851000,
+            "changeTime": 1531761851000,
+            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b"
+        }
+    ],
+    [
+        "/Users/jeremyedwards/Documents/PokeCenter/mywork/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jeremyedwards/Documents/PokeCenter/mywork/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 68,
+            "modifiedTime": 1531752386000,
+            "changeTime": 1531752386000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jeremyedwards/Documents/PokeCenter/mywork",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jeremyedwards/Documents/PokeCenter/mywork",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 272,
+            "modifiedTime": 1531752615000,
+            "changeTime": 1531752615000,
+            "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jeremyedwards/Documents/PokeCenter/mywork/force-app/main/default/objects/Recipe__c/Recipe__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jeremyedwards/Documents/PokeCenter/mywork/force-app/main/default/objects/Recipe__c/Recipe__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2158,
+            "modifiedTime": 1531761851000,
+            "changeTime": 1531761851000,
+            "contentHash": "039e3ee73133b699fcf7b78e5462e168809a2bdb"
+        }
+    ],
+    [
+        "/Users/jeremyedwards/Documents/PokeCenter/mywork/force-app/main/default/layouts/Recipe__c-Recipe Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jeremyedwards/Documents/PokeCenter/mywork/force-app/main/default/layouts/Recipe__c-Recipe Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1947,
+            "modifiedTime": 1531761851000,
+            "changeTime": 1531761851000,
+            "contentHash": "11d783040f4136795b5cfb29705ebffa45e29dff"
+        }
+    ],
+    [
+        "/Users/jeremyedwards/Documents/PokeCenter/mywork/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jeremyedwards/Documents/PokeCenter/mywork/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4304,
+            "modifiedTime": 1531761851000,
+            "changeTime": 1531761851000,
+            "contentHash": "14a53be98a7581375dc0ce25fef7fc5b763df9fa"
+        }
+    ],
+    [
+        "/Users/jeremyedwards/Documents/PokeCenter/mywork/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jeremyedwards/Documents/PokeCenter/mywork/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4304,
+            "modifiedTime": 1531761851000,
+            "changeTime": 1531761851000,
+            "contentHash": "14a53be98a7581375dc0ce25fef7fc5b763df9fa"
+        }
+    ],
+    [
+        "/Users/jeremyedwards/Documents/PokeCenter/mywork/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jeremyedwards/Documents/PokeCenter/mywork/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4642,
+            "modifiedTime": 1531761851000,
+            "changeTime": 1531761851000,
+            "contentHash": "31c7985c9005f428d96d357b1ddc3635f31a6fb7"
+        }
+    ],
+    [
+        "/Users/jeremyedwards/Documents/PokeCenter/mywork/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jeremyedwards/Documents/PokeCenter/mywork/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18053,
+            "modifiedTime": 1531761851000,
+            "changeTime": 1531761851000,
+            "contentHash": "9821b57341c2cc066af2101f36df033835b20933"
+        }
+    ],
+    [
+        "/Users/jeremyedwards/Documents/PokeCenter/mywork/force-app/main/default/objects/Recipe__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jeremyedwards/Documents/PokeCenter/mywork/force-app/main/default/objects/Recipe__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1531761851000,
+            "changeTime": 1531761851000,
+            "contentHash": "5b221b5dcc42fc64984edde29c2398350c2a758d"
+        }
+    ],
+    [
+        "/Users/jeremyedwards/Documents/PokeCenter/mywork/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jeremyedwards/Documents/PokeCenter/mywork/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1531761851000,
+            "changeTime": 1531761851000,
+            "contentHash": "12e2232582a92fd00bf7d8dc124ec88208066237"
+        }
+    ],
+    [
+        "/Users/jeremyedwards/Documents/PokeCenter/mywork/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jeremyedwards/Documents/PokeCenter/mywork/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1531761851000,
+            "changeTime": 1531761851000,
+            "contentHash": "188c7d11b20e0fdcd7a846c441743bb25bd54449"
+        }
+    ],
+    [
+        "/Users/jeremyedwards/Documents/PokeCenter/mywork/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jeremyedwards/Documents/PokeCenter/mywork/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1531761851000,
+            "changeTime": 1531761851000,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
