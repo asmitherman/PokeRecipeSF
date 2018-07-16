@@ -1,0 +1,51 @@
+{
+
+  "name": "Poke-Recipe-pipeline",
+  "version": "0.0.1",
+  "description": "Test application for the salesforce-dx-buildpack",
+  "repository": "https://github.com/asmitherman/PokeRecipeSF",
+  "author": "Austin Smitherman",
+  "license": "ALv2",
+  "bugs": {
+    "url": "https://github.com/asmitherman/PokeRecipeSF/issues"
+  },
+  "homepage":
+    "https://github.com/asmitherman/PokeRecipeSF#readme",
+  "dependencies": {},
+  "devDependencies": {},
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/salesforce-cli-buildpack#v3"
+    },
+    {
+      "url": "https://github.com/heroku/salesforce-buildpack#v1"
+    }
+  ],
+  "env": {
+    "SFDX_DEV_HUB_AUTH_URL": {
+      "required": true
+    },
+    "SFDX_BUILDPACK_DEBUG": {
+      "required": true
+    },
+    "HEROKU_APP_NAME" : {
+      "required": true
+    }
+  },
+  "environments": {
+    "test": {
+      "scripts": {
+        
+      },
+      "formation": {
+        "test": {
+          "quantity": 1,
+          "size": "standard-1x"
+        }
+      }
+    }
+  },
+  "scripts": {
+    "pr-predestroy": "./bin/ra-org-delete.sh"
+  }
+}

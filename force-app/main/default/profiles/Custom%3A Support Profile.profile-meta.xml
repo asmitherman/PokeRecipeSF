@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
+<<<<<<< HEAD
     <custom>true</custom>
     <layoutAssignments>
         <layout>Recipe__c-Recipe Layout</layout>
+=======
+    <classAccesses>
+        <apexClass>DemoController</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>DemoControllerTests</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <custom>true</custom>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>NewObj__c.Active_Custom__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <layoutAssignments>
+        <layout>NewObj__c-NewObj Layout</layout>
+>>>>>>> origin/master
     </layoutAssignments>
     <userLicense>Salesforce</userLicense>
     <userPermissions>

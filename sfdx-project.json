@@ -2,10 +2,21 @@
   "packageDirectories": [
     {
       "path": "force-app",
+<<<<<<< HEAD
       "default": true
+=======
+      "default": true,
+      "id": "0Hof20000004COSCA2",
+      "versionNumber": "1.0.0.NEXT",
+      "versionName": "version name"
+>>>>>>> origin/master
     }
   ],
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
+<<<<<<< HEAD
   "sourceApiVersion": "43.0"
+=======
+  "sourceApiVersion": "42.0"
+>>>>>>> origin/master
 }

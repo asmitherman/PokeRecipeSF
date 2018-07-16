@@ -1,3 +1,8 @@
 {
+<<<<<<< HEAD
     "defaultusername": "test-0bcihvfioi5g@example.com"
+=======
+    "defaultusername": "test-fworjpkqmqrw@example.com",
+    "defaultdevhubusername": "ProdOrg"
+>>>>>>> origin/master
 }

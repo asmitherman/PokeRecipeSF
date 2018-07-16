@@ -1,0 +1,197 @@
+[
+    [
+        "/Users/Austin/Desktop/PokeRecipeSF/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/Austin/Desktop/PokeRecipeSF/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1531497908000,
+            "changeTime": 1531497908011,
+            "contentHash": "afa93b7c40deab8cdbd247350ad17a9bc39369cd",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/Austin/Desktop/PokeRecipeSF/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/Austin/Desktop/PokeRecipeSF/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1531497908000,
+            "changeTime": 1531497908012,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/Austin/Desktop/PokeRecipeSF/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/Austin/Desktop/PokeRecipeSF/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1531497908000,
+            "changeTime": 1531497908013,
+            "contentHash": "461eeafc376496d626321d1533a6b2401f757253",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/Austin/Desktop/PokeRecipeSF/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/Austin/Desktop/PokeRecipeSF/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1531497903579,
+            "changeTime": 1531497903579,
+            "contentHash": "eaa3d84cb77d92a21b111fd1e37f53edc1ff9de0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/Austin/Desktop/PokeRecipeSF/force-app/main/default/classes",
+        {
+            "state": "n",
+            "sourcePath": "/Users/Austin/Desktop/PokeRecipeSF/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1531497910626,
+            "changeTime": 1531497910626,
+            "contentHash": "5c7e9e055ac44f3e0b7bd17675361e8fa6ef21fd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/Austin/Desktop/PokeRecipeSF/force-app/main/default/classes/DemoController.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/Austin/Desktop/PokeRecipeSF/force-app/main/default/classes/DemoController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 263,
+            "modifiedTime": 1530740246000,
+            "changeTime": 1531497832875,
+            "contentHash": "ac8118d46bf5d59030dc360a6122ccb50ee31d98",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/Austin/Desktop/PokeRecipeSF/force-app/main/default/classes/DemoController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/Austin/Desktop/PokeRecipeSF/force-app/main/default/classes/DemoController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 173,
+            "modifiedTime": 1530740246000,
+            "changeTime": 1531497832873,
+            "contentHash": "347d448172840cfbabc1b5d2ee5d3d1d84f0f15a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/Austin/Desktop/PokeRecipeSF/force-app/test",
+        {
+            "state": "n",
+            "sourcePath": "/Users/Austin/Desktop/PokeRecipeSF/force-app/test",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1531497841000,
+            "changeTime": 1531497841115,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/Austin/Desktop/PokeRecipeSF/force-app/test/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/Austin/Desktop/PokeRecipeSF/force-app/test/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1531497841000,
+            "changeTime": 1531497841117,
+            "contentHash": "1adaa84dc07a16d34ede5b9a70713ff832a0f853",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/Austin/Desktop/PokeRecipeSF/force-app/test/default/classes",
+        {
+            "state": "n",
+            "sourcePath": "/Users/Austin/Desktop/PokeRecipeSF/force-app/test/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1531497841000,
+            "changeTime": 1531497841119,
+            "contentHash": "1700502fdcb73fc2aeadcfeede9b9ef238b56dd2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/Austin/Desktop/PokeRecipeSF/force-app/test/default/classes/DemoControllerTests.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/Austin/Desktop/PokeRecipeSF/force-app/test/default/classes/DemoControllerTests.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 211,
+            "modifiedTime": 1530740246000,
+            "changeTime": 1531497832857,
+            "contentHash": "c1c4d73a144659c186e226373922d6c6822cb3c2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/Austin/Desktop/PokeRecipeSF/force-app/test/default/classes/DemoControllerTests.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/Austin/Desktop/PokeRecipeSF/force-app/test/default/classes/DemoControllerTests.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1530740246000,
+            "changeTime": 1531497832859,
+            "contentHash": "ec29c6f2ff617299f8e53d0ea63d440cd27207eb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/Austin/Desktop/PokeRecipeSF",
+        {
+            "state": "n",
+            "sourcePath": "/Users/Austin/Desktop/PokeRecipeSF",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 448,
+            "modifiedTime": 1531749988000,
+            "changeTime": 1531749988745,
+            "contentHash": "8063591e19bcc072dc97b8c3f8f952f6f6d40e10",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

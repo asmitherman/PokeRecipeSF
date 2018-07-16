@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SFDX  App
 
 ## Dev, Build and Test
@@ -12,3 +13,7 @@
 ## Issues
 
 
+=======
+# PokeRecipeSF
+Pokemon themed recipe sharing Salesforce application
+>>>>>>> origin/master

@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
     "orgName": "jeremyedwards Company",
+=======
+    "orgName": "Poke Scratch Org",
+>>>>>>> origin/master
     "edition": "Developer",
     "orgPreferences" : {
         "enabled": ["S1DesktopEnabled"]
