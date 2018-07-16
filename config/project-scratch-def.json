@@ -1,0 +1,7 @@
+{
+    "orgName": "Poke Scratch Org",
+    "edition": "Developer",
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled"]
+    }
+}
