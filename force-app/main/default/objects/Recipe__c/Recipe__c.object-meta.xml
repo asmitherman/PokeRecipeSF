@@ -43,22 +43,24 @@
     <allowInChatterGroups>false</allowInChatterGroups>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <deploymentStatus>Deployed</deploymentStatus>
+    <description>Record of recipes that your pokemon would love, relationship with pokemon and ingredients</description>
     <enableActivities>false</enableActivities>
     <enableBulkApi>true</enableBulkApi>
     <enableChangeDataCapture>false</enableChangeDataCapture>
     <enableFeeds>false</enableFeeds>
     <enableHistory>false</enableHistory>
-    <enableReports>false</enableReports>
-    <enableSearch>false</enableSearch>
+    <enableReports>true</enableReports>
+    <enableSearch>true</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <label>NewObj</label>
+    <label>Recipe</label>
     <nameField>
-        <label>NewObj Name</label>
+        <label>Recipe Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>newObjs</pluralLabel>
+    <pluralLabel>Recipes</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
+    <startsWith>Vowel</startsWith>
     <visibility>Public</visibility>
 </CustomObject>

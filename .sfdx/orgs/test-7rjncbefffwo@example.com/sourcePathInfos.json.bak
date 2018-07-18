@@ -7,8 +7,8 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 128,
-            "modifiedTime": 1531497908000,
-            "changeTime": 1531497908011,
+            "modifiedTime": 1531925509000,
+            "changeTime": 1531925509550,
             "contentHash": "afa93b7c40deab8cdbd247350ad17a9bc39369cd",
             "isWorkspace": false,
             "isArtifactRoot": true
@@ -22,8 +22,8 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 96,
-            "modifiedTime": 1531497908000,
-            "changeTime": 1531497908012,
+            "modifiedTime": 1531925509000,
+            "changeTime": 1531925509552,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
             "isWorkspace": false,
             "isArtifactRoot": false
@@ -36,10 +36,10 @@
             "sourcePath": "/Users/Austin/Desktop/PokeRecipeSF/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 160,
-            "modifiedTime": 1531497908000,
-            "changeTime": 1531497908013,
-            "contentHash": "461eeafc376496d626321d1533a6b2401f757253",
+            "size": 224,
+            "modifiedTime": 1531925509000,
+            "changeTime": 1531925509553,
+            "contentHash": "b936140f2f6324056532fdafb79873dd3dd6884a",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -100,6 +100,36 @@
             "modifiedTime": 1530740246000,
             "changeTime": 1531497832873,
             "contentHash": "347d448172840cfbabc1b5d2ee5d3d1d84f0f15a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/Austin/Desktop/PokeRecipeSF/force-app/main/default/layouts",
+        {
+            "state": "n",
+            "sourcePath": "/Users/Austin/Desktop/PokeRecipeSF/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1531925488000,
+            "changeTime": 1531925488611,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/Austin/Desktop/PokeRecipeSF/force-app/main/default/profiles",
+        {
+            "state": "n",
+            "sourcePath": "/Users/Austin/Desktop/PokeRecipeSF/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1531925509000,
+            "changeTime": 1531925509554,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -186,10 +216,10 @@
             "sourcePath": "/Users/Austin/Desktop/PokeRecipeSF",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 448,
-            "modifiedTime": 1531749988000,
-            "changeTime": 1531749988745,
-            "contentHash": "8063591e19bcc072dc97b8c3f8f952f6f6d40e10",
+            "size": 480,
+            "modifiedTime": 1531925509000,
+            "changeTime": 1531925509549,
+            "contentHash": "a3dad1945b92b12fabf410be255b0f5fd4744e69",
             "isWorkspace": true,
             "isArtifactRoot": false
         }

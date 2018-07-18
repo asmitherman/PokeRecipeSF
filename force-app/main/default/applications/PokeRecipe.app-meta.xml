@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#EB3741</headerColor>
+        <logo>poke</logo>
+        <logoVersion>1</logoVersion>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <formFactors>Large</formFactors>
+    <label>PokeRecipe</label>
+    <navType>Standard</navType>
+    <tabs>Pokemon__c</tabs>
+    <tabs>Recipe__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>PokeRecipe_UtilityBar</utilityBar>
+</CustomApplication>
